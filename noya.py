@@ -1,1 +1,2 @@
-print("Hi Noya!")
+x = "Hi Noya!"
+print(x)
